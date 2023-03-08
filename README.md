@@ -4,13 +4,27 @@
 Metasploit Framework para termux  
 
 # PRE REQUISITOS
-<li> python 
-<li> wget 
-<li> git 
-<li>termux en su última versión 
-</li>
+ python 
+wget 
+git 
+termux en su última versión 
+
 
 # IMAGEN 
 
 [![Picsart-23-03-08-08-18-01-992.png](https://i.postimg.cc/xCgmSfRw/Picsart-23-03-08-08-18-01-992.png)](https://postimg.cc/dkk32Kg6) 
+
+# INSTALACIÓN 
+
+```
+git clone https://github.com/Arturo254/MetasploitFramework 
+
+cd MetasploitFramework 
+
+chmod 777 * 
+
+
+bash setup.sh
+
+# About 
 
